@@ -17,7 +17,7 @@ abstract public class BaseTest {//Базовый абстрактный клас
         Configuration.headless = false;//буду ли я видеть сам браузер при выполнении тестов(false -видно)
         Configuration.timeout= 5000;
         //Configuration.pageLoadTimeout=30000;
-        //C:\Users\art82\AppData\Local\Google\Chrome\User Data
+
 
     }
     @Before//Метод ДО теста
