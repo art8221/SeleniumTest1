@@ -1,7 +1,7 @@
 package dnrru;
 
 import com.codeborne.selenide.Selenide;
-import core.BaseTest;
+import test1.core.BaseTest;
 import org.junit.Test;
 
 

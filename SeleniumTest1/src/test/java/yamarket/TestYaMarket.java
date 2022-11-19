@@ -1,10 +1,9 @@
 package yamarket;
 
 import com.codeborne.selenide.Selenide;
-import core.BaseTest;
+import test1.core.BaseTest;
 import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
 
 
 public class TestYaMarket extends BaseTest {

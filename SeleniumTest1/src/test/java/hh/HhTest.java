@@ -1,7 +1,7 @@
 package hh;
 
 
-import core.BaseTest;
+import test1.core.BaseTest;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.junit.Assert;
 import org.junit.Test;

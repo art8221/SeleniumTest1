@@ -8,7 +8,7 @@ public class SearchPage {//логика взаимодействия с элем
     private final ElementsCollection elementsCollection = $$x("//h2//a");
 
     /**
-     * Возвращает href из первой статьи
+     * Возвращает href из первой статьи!!!
      */
     public String getHrefFromFirstArticle(){
        return elementsCollection.first().getAttribute("href");

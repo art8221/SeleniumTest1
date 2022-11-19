@@ -1,6 +1,6 @@
 package test1;
 
-import core.BaseTest;
+import test1.core.BaseTest;
 import org.junit.Assert;
 import org.junit.Test;
 

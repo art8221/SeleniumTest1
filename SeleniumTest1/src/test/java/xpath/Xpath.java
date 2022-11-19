@@ -1,7 +1,7 @@
 package xpath;
 
 import com.codeborne.selenide.Selenide;
-import core.BaseTest;
+import test1.core.BaseTest;
 import org.junit.Test;
 
 public class Xpath extends BaseTest {
